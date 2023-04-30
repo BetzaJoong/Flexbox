@@ -40,8 +40,9 @@ li .login{
     padding-right: 0.3em;
 }
 .menu .imagenes {
+    image-rendering:pixelated;
     height: 45px;
-    width: 55px;
+    width: 65px;
     border-radius: 60%;
 }
 button{
