@@ -52,6 +52,10 @@ button{
     height: 50%;
     margin-left: 4.5em;
 }
+button:hover {
+    background: #dca2c5;
+    color: #fff !important;
+}
 .card{
     display:flex;
     align-items: center;
